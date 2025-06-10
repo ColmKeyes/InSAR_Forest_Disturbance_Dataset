@@ -18,7 +18,7 @@ window size * sentinel1_spacing = pixel spacing
 
 """
 import sys
-sys.path.append(r'C:\Users\Lord Colm\PycharmProjects\Sentinel-1-Coherence-pipeline\src')
+sys.path.append(r"/home/colm-the-conjurer/VSCode/workspace/InSAR_Forest_Disturbance_Dataset/src")#r'C:\Users\Lord Colm\PycharmProjects\Sentinel-1-Coherence-pipeline\src')
 import sentinel1slc as slc
 
 # Define input parameters
